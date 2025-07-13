@@ -33,11 +33,9 @@ Make sure you have Python installed.
 Clone this repository:
 
 ```bash
-git clone https://github.com/cheegozie/file-hasher
-cd file-hasher
+git clone https://github.com/cheegozie/100-Days-of-Python-Projects.git
+cd "100-Days-of-Python-Projects/Python Projects/Day 2"
 ```
-
----
 
 ## 🛠️ Usage
 
