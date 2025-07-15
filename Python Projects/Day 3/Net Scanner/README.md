@@ -28,3 +28,6 @@ cd "100-Days-of-Python-Projects/Python Projects/Day 3/Net Scanner"
 
 pip install flask
 python app.py
+
+🤖 Author
+Built with ❤️ by @cheegozie
