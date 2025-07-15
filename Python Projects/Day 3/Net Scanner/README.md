@@ -23,8 +23,8 @@ This tool scans common TCP ports (1–1024) on any IP address or domain and pres
 ### 🖥 How to Run
 
 ```bash
-git clone https://github.com/yourusername/day3-net-scanner.git
-cd day3-net-scanner
+git clone https://github.com/cheegozie/100-Days-of-Python-Projects.git
+cd "100-Days-of-Python-Projects/Python Projects/Day 3/Net Scanner"
 
 pip install flask
 python app.py
